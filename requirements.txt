@@ -1,0 +1,8 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes 
+sentencepiece 
+accelerate 
+langchain_community
